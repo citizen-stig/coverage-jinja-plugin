@@ -1,0 +1,3 @@
+coverage >= 4.1b2
+Jinja2 >= 2.8
+
